@@ -18,10 +18,6 @@ Arayüz `.ui` dosyasıyla Qt Designer'da hazırlanmıştır (`form.ui`).
 
 ## 📦 Gereksinimler
 
-- Python 3.x
-- PyQt5
+- Python 3.10
+- PyQt
 
-Yüklemek için:
-
-```bash
-pip install pyqt5
